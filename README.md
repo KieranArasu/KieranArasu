@@ -3,11 +3,16 @@
 Work mainly on R and Stata.
 
 ## Machine Learning
-### Project 2: 
-Examining and predicting resting heartrate using post-exercise heartrate as a predictor and utlising 
+### Project 1: Breast Cancer Prognostic model
+As seen here in **Insert publication**, I used survival analysis to predict which combination of factors are likely to result in breast-cancer specific death in a large dataset of over 3000 observations. Specifically, parametric Royston-Parmar models were used over
+traditional semi-parametric models. Multiple imputation was also used to generate missing data.
 
-Several different techniques were used to predict Acute Myocardial Infarction including Logistic regression, Cross-Validation and LASSO 
-regrssion. Best technique was assessed via accuracy.
+
+
+## Machine Learning
+### Project 2: 
+Several different techniques were used to predict Resting Heartrate and Acute Myocardial Infarction including **Logistic regression, k-nearest neighbors algorithm (KNN), bootstrapping, Cross-Validation and LASSO 
+regrssion**. Best technique was assessed via accuracy or Mean Squared Error (MSE). Predictions were also made utilising information ffrom the logistic regression and KNN for technique comparison.
 
 Tools used:
  R: Caret, FNN, Psych
