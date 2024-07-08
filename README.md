@@ -1,7 +1,7 @@
 # Data repository of previous/current data projects
-- By Kieran Arasu
-Work mainly on R and Stata for data.
-Additionally construct 3D models and program in C# for VR environments.
+* By Kieran Arasu
+- Work mainly on R and Stata for data.
+- Additionally construct 3D models and program in C# for VR environments (Additional info here).
 
 
 ## Machine Learning
