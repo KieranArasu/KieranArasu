@@ -14,6 +14,8 @@ traditional semi-parametric models. Multiple imputation was also used to generat
 Several different techniques were used to predict Resting Heartrate and Acute Myocardial Infarction including **Logistic regression, k-nearest neighbors algorithm (KNN), bootstrapping, Cross-Validation and LASSO 
 regrssion**. Best technique was assessed via accuracy or Mean Squared Error (MSE). Predictions were also made utilising information ffrom the logistic regression and KNN for technique comparison.
 
+![](./images/GraphML.png)
+
 Tools used:
  R: Caret, FNN, Psych
 <!---
