@@ -1,7 +1,6 @@
-# Datarepository of previous/current data projects
-- By @KieranArasu
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+# Data repository of previous/current data projects
+- By Kieran Arasu
+Work mainly on R and Stata.
 
 ## Machine Learning
 ### Project 2: 
