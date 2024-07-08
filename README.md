@@ -12,12 +12,20 @@ traditional semi-parametric models. Multiple imputation was also used to generat
 ## Machine Learning
 ### Project 2: 
 Several different techniques were used to predict Resting Heartrate and Acute Myocardial Infarction including **Logistic regression, k-nearest neighbors algorithm (KNN), bootstrapping, Cross-Validation and LASSO 
-regrssion**. Best technique was assessed via accuracy or Mean Squared Error (MSE). Predictions were also made utilising information ffrom the logistic regression and KNN for technique comparison.
+regression**. Best technique was assessed via accuracy or Mean Squared Error (MSE). Predictions were also made utilising information ffrom the logistic regression and KNN for technique comparison.
+
+* Techniques used
+  - Logistic regression
+  - k-nearest neighbors algorithm (KNN)
+  - bootstrapping
+  - Cross-Validation
+  - LASSO regression
+  
 
 ![](./images/GraphML.png)
 
-Tools used:
- R: Caret, FNN, Psych
+* Tools used:
+ - R: Caret, FNN, Psych
 <!---
 KieranArasu/KieranArasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
