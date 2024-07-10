@@ -18,7 +18,7 @@ traditional semi-parametric models. Multiple imputation was also used to generat
 
 
 ## Machine Learning
-### Project 2: 
+### Project 2: Resting Heartrate & Myocardial infarction prediction 
 Several different techniques were used to predict Resting Heartrate and Acute Myocardial Infarction including **Logistic regression, k-nearest neighbors algorithm (KNN), bootstrapping, Cross-Validation and LASSO 
 regression**. Best technique was assessed via accuracy or Mean Squared Error (MSE). Predictions for resting heartrate were also made utilising information ffrom the linear regression and KNN for technique comparison.
 
@@ -37,7 +37,7 @@ regression**. Best technique was assessed via accuracy or Mean Squared Error (MS
 * Tools used:
  - R: Caret, FNN, Psych
 
-![Code](./data/RestingHRMI[ML].R)
+[Code](./data/RestingHRMI[ML].R)
 <!---
 KieranArasu/KieranArasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
