@@ -29,6 +29,8 @@ Conducted variable pruning on a large dataset to consider which variables to kee
 * Tools used:
  - R: ggplot2, tidyverse, olsrr, moments
 
+![](./images/GraphCW.png)
+
 ## Machine Learning
 ### [Project: Resting Heartrate & Myocardial infarction prediction](./data/RestingHRMI[ML].R)
 Several different techniques were used to predict Resting Heartrate and Acute Myocardial Infarction including **Logistic regression, k-nearest neighbors algorithm (KNN), bootstrapping, Cross-Validation and LASSO 
