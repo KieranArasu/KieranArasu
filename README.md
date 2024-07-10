@@ -16,6 +16,17 @@ traditional semi-parametric models. Multiple imputation was also used to generat
   - Associated R2 and discrimination
   - Multivariable fractional polynomial models (For variable selection)
 
+## Data analysis/exploration
+### Project: Examining the relationship between creatine levels and weight
+Conducted variable pruning on a large dataset to consider which variables to keep in a model to determine the effects of weight on creatine. A model was developed after considering 10 different variables and results were then presented to supervisors.
+
+* Techniques used
+  - Multivariable regression
+  - Extensive variable selection using methods (VIF, AIC, BIC)
+  - Residual analysis
+
+* Tools used:
+ - R: ggplot2, tidyverse, olsrr, moments
 
 ## Machine Learning
 ### Project 2: Resting Heartrate & Myocardial infarction prediction 
@@ -30,12 +41,13 @@ regression**. Best technique was assessed via accuracy or Mean Squared Error (MS
   - Bootstrapping
   - Cross-Validation
   - LASSO regression
-  
-
-![](./images/GraphML.png)
 
 * Tools used:
  - R: Caret, FNN, Psych
+
+![](./images/GraphML.png)
+
+
 
 [Code](./data/RestingHRMI[ML].R)
 <!---
