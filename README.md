@@ -9,17 +9,25 @@
 As seen here in **Insert publication**, I used survival analysis to predict which combination of factors are likely to result in breast-cancer specific death in a large dataset of over 3000 observations. Specifically, parametric Royston-Parmar models were used over
 traditional semi-parametric models. Multiple imputation was also used to generate missing data.
 
+* Techniques used
+  - Parametric survival analysis
+  - Multiple imputation
+  - Harrel's C-index
+  - Associated R2 and discrimination
+  - Multivariable fractional polynomial models (For variable selection)
 
 
 ## Machine Learning
 ### Project 2: 
 Several different techniques were used to predict Resting Heartrate and Acute Myocardial Infarction including **Logistic regression, k-nearest neighbors algorithm (KNN), bootstrapping, Cross-Validation and LASSO 
-regression**. Best technique was assessed via accuracy or Mean Squared Error (MSE). Predictions were also made utilising information ffrom the logistic regression and KNN for technique comparison.
+regression**. Best technique was assessed via accuracy or Mean Squared Error (MSE). Predictions for resting heartrate were also made utilising information ffrom the linear regression and KNN for technique comparison.
 
 * Techniques used
+  - Linear regression
   - Logistic regression
-  - k-nearest neighbors algorithm (KNN)
-  - bootstrapping
+  - K-nearest neighbors algorithm (KNN)
+  - Imputation (Mean/Prediction)
+  - Bootstrapping
   - Cross-Validation
   - LASSO regression
   
