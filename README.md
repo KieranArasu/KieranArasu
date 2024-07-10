@@ -29,7 +29,8 @@ Conducted variable pruning on a large dataset to consider which variables to kee
 * Tools used:
  - R: ggplot2, tidyverse, olsrr, moments
 
-![](./images/GraphCW.png)
+<img src="./images/GraphCW.png" width="600">
+
 
 ## Machine Learning
 ### [Project: Resting Heartrate & Myocardial infarction prediction](./data/RestingHRMI[ML].R)
@@ -46,8 +47,9 @@ regression**. Best technique was assessed via accuracy or Mean Squared Error (MS
 
 * Tools used:
  - R: Caret, FNN, Psych
+ - 
+<img src="./images/GraphML.png" width="600">
 
-![](./images/GraphML.png)
 
 
 <!---
