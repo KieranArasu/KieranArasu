@@ -36,6 +36,8 @@ regression**. Best technique was assessed via accuracy or Mean Squared Error (MS
 
 * Tools used:
  - R: Caret, FNN, Psych
+
+![Code](./data/RestingHRMI[ML].R)
 <!---
 KieranArasu/KieranArasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
