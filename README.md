@@ -5,7 +5,7 @@
 
 
 ## Machine Learning
-### Project 1: Breast Cancer Prognostic model
+### Major Project: Breast Cancer Prognostic model
 As seen here in **Insert publication**, I used survival analysis to predict which combination of factors are likely to result in breast-cancer specific death in a large dataset of over 3000 observations. Specifically, parametric Royston-Parmar models were used over
 traditional semi-parametric models. Multiple imputation was also used to generate missing data.
 
@@ -17,7 +17,7 @@ traditional semi-parametric models. Multiple imputation was also used to generat
   - Multivariable fractional polynomial models (For variable selection)
 
 ## Data analysis/exploration
-### Project: Examining the relationship between creatine levels and weight
+### [Project: Examining the relationship between creatine levels and weight](./data/CreatvsWeight.R)
 Conducted variable pruning on a large dataset to consider which variables to keep in a model to determine the effects of weight on creatine. A model was developed after considering 10 different variables and results were then presented to supervisors.
 
 * Techniques used
