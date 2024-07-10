@@ -24,6 +24,7 @@ Conducted variable pruning on a large dataset to consider which variables to kee
   - Multivariable regression
   - Extensive variable selection using methods (VIF, AIC, BIC)
   - Residual analysis
+  - Interaction terms
 
 * Tools used:
  - R: ggplot2, tidyverse, olsrr, moments
@@ -34,12 +35,11 @@ Several different techniques were used to predict Resting Heartrate and Acute My
 regression**. Best technique was assessed via accuracy or Mean Squared Error (MSE). Predictions for resting heartrate were also made utilising information ffrom the linear regression and KNN for technique comparison.
 
 * Techniques used
-  - Linear regression
-  - Logistic regression
+  - Linear regression=
   - K-nearest neighbors algorithm (KNN)
   - Imputation (Mean/Prediction)
   - Bootstrapping
-  - Cross-Validation
+  - Logistic regression
   - LASSO regression
 
 * Tools used:
