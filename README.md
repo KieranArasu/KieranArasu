@@ -45,6 +45,9 @@ Conducted semi-parametric survival analysis on diabetic patients patients on tim
 * Tools used:
  - R: survival, tidyverse, survminer, gtools, dplyr, flextable, mfp
 
+<img src="./images/GraphSA.png" width="600">
+
+
 ## Machine Learning
 ### [Project: Resting Heartrate & Myocardial infarction prediction](./data/RestingHRMI[ML].R)
 Several different techniques were used to predict Resting Heartrate and Acute Myocardial Infarction including **Logistic regression, k-nearest neighbors algorithm (KNN), bootstrapping, Cross-Validation and LASSO 
