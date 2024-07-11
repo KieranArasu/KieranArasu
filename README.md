@@ -32,6 +32,19 @@ Conducted variable pruning on a large dataset to consider which variables to kee
 <img src="./images/GraphCW.png" width="600">
 
 
+### [Project: Survival analysis on diabetic patients](./data/CreatvsWeight.R)
+Conducted semi-parametric survival analysis on diabetic patients patients on time to death and investigated variables in the data set to find significant predictors of death.
+
+* Techniques used
+  - Cox PH Survival analysis
+  - Descriptive analysis
+  - Kaplan–Meier Curves
+  - Plot visualisation
+  - Publication standard table presentation
+
+* Tools used:
+ - R: survival, tidyverse, survminer, gtools, dplyr, flextable, mfp
+
 ## Machine Learning
 ### [Project: Resting Heartrate & Myocardial infarction prediction](./data/RestingHRMI[ML].R)
 Several different techniques were used to predict Resting Heartrate and Acute Myocardial Infarction including **Logistic regression, k-nearest neighbors algorithm (KNN), bootstrapping, Cross-Validation and LASSO 
