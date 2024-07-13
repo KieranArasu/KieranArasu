@@ -32,7 +32,7 @@ Conducted variable pruning on a large dataset to consider which variables to kee
 <img src="./images/GraphCW.png" width="600">
 
 
-### [Project: Survival analysis on diabetic patients](./data/CreatvsWeight.R)
+### [Project: Survival analysis on diabetic patients](./data/Survdiabetes.R)
 Conducted semi-parametric survival analysis on diabetic patients patients on time to death and investigated variables in the data set to find significant predictors of death.
 
 * Techniques used
