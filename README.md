@@ -47,7 +47,7 @@ Conducted semi-parametric survival analysis on diabetic patients patients on tim
 
 <img src="./images/GraphSA.png" width="600">
 
-Full document [here](./data/Survdiabetes.pdf)
+Full document [here](./docs/Survdiabetes.pdf)
 
 ## Machine Learning
 ### [Project: Resting Heartrate & Myocardial infarction prediction](./data/RestingHRMI[ML].R)
@@ -65,7 +65,7 @@ regression**. Best technique was assessed via accuracy or Mean Squared Error (MS
 * Tools used:
  - R: Caret, FNN, Psych
 
-Full document [here](./data/RestingHRMI[ML].pdf)
+Full document [here](./docs/RestingHRMI[ML].pdf)
 
 <img src="./images/GraphML.png" width="600">
 
