@@ -47,6 +47,7 @@ Conducted semi-parametric survival analysis on diabetic patients patients on tim
 
 <img src="./images/GraphSA.png" width="600">
 
+Full document [here](./data/Survdiabetes.pdf)
 
 ## Machine Learning
 ### [Project: Resting Heartrate & Myocardial infarction prediction](./data/RestingHRMI[ML].R)
