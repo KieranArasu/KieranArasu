@@ -54,7 +54,7 @@ Several different techniques were used to predict Resting Heartrate and Acute My
 regression**. Best technique was assessed via accuracy or Mean Squared Error (MSE). Predictions for resting heartrate were also made utilising information ffrom the linear regression and KNN for technique comparison.
 
 * Techniques used
-  - Linear regression=
+  - Linear regression
   - K-nearest neighbors algorithm (KNN)
   - Imputation (Mean/Prediction)
   - Bootstrapping
