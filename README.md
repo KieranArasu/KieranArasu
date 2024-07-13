@@ -63,7 +63,9 @@ regression**. Best technique was assessed via accuracy or Mean Squared Error (MS
 
 * Tools used:
  - R: Caret, FNN, Psych
- - 
+
+Full document [here](./data/RestingHRMI[ML].pdf)
+
 <img src="./images/GraphML.png" width="600">
 
 
