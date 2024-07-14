@@ -15,6 +15,8 @@ traditional semi-parametric models. Multiple imputation was also used to generat
   - Harrel's C-index
   - Associated R2 and discrimination
   - Multivariable fractional polynomial models (For variable selection)
+ 
+  Resarch paper abstract [here](./docs/PBAbstract.pdf)
 
 ## Data analysis/exploration
 ### [Project: Examining the relationship between creatine levels and weight](./data/CreatvsWeight.R)
