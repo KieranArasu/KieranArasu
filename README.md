@@ -31,7 +31,7 @@ Conducted variable pruning on a large dataset to consider which variables to kee
 * Tools used:
  - R: ggplot2, tidyverse, olsrr, moments
  - 
-Additional presentation information [here](./docs/CreatvsWeight.pdf)
+  Additional presentation information [here](./docs/CreatvsWeight.pdf)
 
 <img src="./images/GraphCW.png" width="600">
 
@@ -49,7 +49,7 @@ Conducted semi-parametric survival analysis on diabetic patients patients on tim
 * Tools used:
  - R: survival, tidyverse, survminer, gtools, dplyr, flextable, mfp
  - 
-Full document [here](./docs/Survdiabetes.pdf)
+  Full document [here](./docs/Survdiabetes.pdf)
 
 <img src="./images/GraphSA.png" width="600">
 
@@ -71,7 +71,7 @@ regression**. Best technique was assessed via accuracy or Mean Squared Error (MS
 * Tools used:
  - R: Caret, FNN, Psych
 
-Full document [here](./docs/RestingHRMI[ML].pdf)
+  Full document [here](./docs/RestingHRMI[ML].pdf)
 
 <img src="./images/GraphML.png" width="600">
 
