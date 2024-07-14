@@ -4,10 +4,10 @@
 - Additionally construct 3D models and program in C# for VR environments in the Unity game engine (Additional info here).
 
 
-## Machine Learning
+## Publication work
 ### Major Project: Breast Cancer Prognostic model
-As seen here in **Insert publication**, I used survival analysis to predict which combination of factors are likely to result in breast-cancer specific death in a large dataset of over 3000 observations. Specifically, parametric Royston-Parmar models were used over
-traditional semi-parametric models. Multiple imputation was also used to generate missing data.
+Currently in a work-in progress publication (Estimated time of completion, August 2024), I used survival analysis to predict which combination of factors, mostly of psychosocial nature, are likely to result in breast-cancer specific death in a large dataset of over 3000 observations. Specifically, parametric Royston-Parmar models were used over
+traditional semi-parametric models. Multiple imputation was also used to generate missing data. Additional documentation will be shown once published.
 
 * Techniques used
   - Parametric survival analysis
@@ -29,7 +29,7 @@ Conducted variable pruning on a large dataset to consider which variables to kee
 * Tools used:
  - R: ggplot2, tidyverse, olsrr, moments
  - 
-Full document [here](./docs/CreatvsWeight.pdf)
+Additional presentation information [here](./docs/CreatvsWeight.pdf)
 
 <img src="./images/GraphCW.png" width="600">
 
