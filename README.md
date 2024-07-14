@@ -30,12 +30,12 @@ Conducted variable pruning on a large dataset to consider which variables to kee
 
 * Tools used:
  - R: ggplot2, tidyverse, olsrr, moments
- - 
+   
   Additional presentation information [here](./docs/CreatvsWeight.pdf)
 
 <img src="./images/GraphCW.png" width="600">
 
-### [Project: Examination of population density and GDP](./data/Survdiabetes.R)
+### [Project: Examination of population density and GDP](./data/VIIRSanalysis.R)
 Examined the relationship between Visible Infrared Imaging Radiometer Suite (VIIRS) and GDP using linear regression and data transformation techniques to avoid violating regression assumptions.
 
 * Techniques used
@@ -43,6 +43,13 @@ Examined the relationship between Visible Infrared Imaging Radiometer Suite (VII
   - Data transformation (Log transform)
   - Residual analysis
     
+* Tools used:
+ - R: ggplot2, magrittr
+   
+  Additional information [here](./docs/VIIRSanalysis.pdf)
+  
+<img src="./images/VIIRSanalysis.png" width="600">
+
 ### [Project: Survival analysis on diabetic patients](./data/Survdiabetes.R)
 Conducted semi-parametric survival analysis on diabetic patients patients on time to death and investigated variables in the data set to find significant predictors of death.
 
