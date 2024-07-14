@@ -18,7 +18,7 @@ traditional semi-parametric models. Multiple imputation was also used to generat
  
   Resarch paper abstract [here](./docs/PBAbstract.pdf)
 
-## Data analysis/exploration
+## Data analysis/exploration/transformation
 ### [Project: Examining the relationship between creatine levels and weight](./data/CreatvsWeight.R)
 Conducted variable pruning on a large dataset to consider which variables to keep in a model to determine the effects of weight on creatine. A model was developed after considering 10 different variables and results were then presented to supervisors.
 
@@ -35,7 +35,14 @@ Conducted variable pruning on a large dataset to consider which variables to kee
 
 <img src="./images/GraphCW.png" width="600">
 
+### [Project: Examination of population density and GDP](./data/Survdiabetes.R)
+Examined the relationship between Visible Infrared Imaging Radiometer Suite (VIIRS) and GDP using linear regression and data transformation techniques to avoid violating regression assumptions.
 
+* Techniques used
+  - Linear regression
+  - Data transformation (Log transform)
+  - Residual analysis
+    
 ### [Project: Survival analysis on diabetic patients](./data/Survdiabetes.R)
 Conducted semi-parametric survival analysis on diabetic patients patients on time to death and investigated variables in the data set to find significant predictors of death.
 
