@@ -28,6 +28,8 @@ Conducted variable pruning on a large dataset to consider which variables to kee
 
 * Tools used:
  - R: ggplot2, tidyverse, olsrr, moments
+ - 
+Full document [here](./docs/CreatvsWeight.pdf)
 
 <img src="./images/GraphCW.png" width="600">
 
@@ -44,10 +46,12 @@ Conducted semi-parametric survival analysis on diabetic patients patients on tim
 
 * Tools used:
  - R: survival, tidyverse, survminer, gtools, dplyr, flextable, mfp
+ - 
+Full document [here](./docs/Survdiabetes.pdf)
 
 <img src="./images/GraphSA.png" width="600">
 
-Full document [here](./docs/Survdiabetes.pdf)
+
 
 ## Machine Learning
 ### [Project: Resting Heartrate & Myocardial infarction prediction](./data/RestingHRMI[ML].R)
