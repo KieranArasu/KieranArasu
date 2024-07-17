@@ -6,7 +6,7 @@
 
 ## Publication work
 ### Major Project: Breast Cancer Prognostic model
-Currently in a work-in progress publication (Estimated time of completion, August 2024), I used survival analysis to predict which combination of factors, mostly of psychosocial nature, are likely to result in breast-cancer specific death in a large dataset of over 3000 observations. Specifically, parametric Royston-Parmar models were used over
+Currently in a work-in progress publication "Quantifying the influence of individual factors on breast-cancer specific survival after a breast cancer diagnosis" (Estimated time of publication, August/September 2024), I used survival analysis to predict which combination of factors, mostly of psychosocial nature, are likely to result in breast-cancer specific death in a large dataset of over 3000 observations. Specifically, parametric Royston-Parmar models were used over
 traditional semi-parametric models. Multiple imputation was also used to generate missing data. Additional documentation will be shown once published.
 
 * Techniques used
