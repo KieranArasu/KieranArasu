@@ -1,6 +1,6 @@
 # Data repository of previous/current data projects
 * By Kieran Arasu
-- Work mainly on R and Stata for data.
+- Work mainly using R and Stata for data analysis.
 - Additionally construct 3D models and program in C# for VR environments in the Unity game engine.
 
 
